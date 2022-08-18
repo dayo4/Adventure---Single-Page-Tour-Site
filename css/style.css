@@ -9,6 +9,16 @@
   box-sizing: border-box;
 }
 
+img {
+	max-width: 100%;
+	display: block;
+}
+
+img {
+	max-width: 100%;
+	display: block;
+}
+
 a {
   text-decoration: none;
 }
@@ -228,6 +238,18 @@ p {
 }
 
 /* tours */
+.image-gallery {
+	display: grid;
+	gap: 1.8rem 1rem;
+	grid-template-columns: repeat(2, 1fr);
+	justify-content: center;
+	padding: 1rem;
+}
+
+.tours .row {
+	gap: 4rem;
+}
+
 .content-col {
   width: 40%;
 }
