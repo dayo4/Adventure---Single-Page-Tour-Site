@@ -58,18 +58,18 @@ html {
 /* Navbar */
 
 .navbar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  background: rgba(0, 0, 0, 0.2);
-  backdrop-filter: saturate(180%) blur(10px);
-  display: flex;
-  width: 100%;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px;
-  z-index: 10;
-  color: whitesmoke;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: rgba(0, 0, 0, 0.2);
+	backdrop-filter: saturate(180%) blur(10px);
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	align-items: center;
+	padding: 5px;
+	z-index: 10;
+	color: whitesmoke;
 }
 
 .nav-links {
