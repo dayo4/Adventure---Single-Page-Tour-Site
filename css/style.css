@@ -184,9 +184,11 @@ h4 {
   margin: 20px auto;
 }
 
-p {
-  color: #7c7c7c;
-  padding: 0px 40px;
+.col p {
+	color: #7c7c7c;
+	padding: 0px 40px;
+	font-size: var(--fs-paragraphs);
+	font-family: var(--ff-roboto);
 }
 
 .col p {
@@ -363,13 +365,13 @@ form {
 }
 
 .c_boxx a p {
-  font-size: 22px;
-  color: white;
+	font-size: 22px;
+	padding: 0px 40px;
 }
 
-.c_boxx a p:hover {
-  color: #fc036b;
-}
+/* .c_boxx a p:hover {
+	color: #fc036b;
+}   */
 
 input[type='text'],
 select,
