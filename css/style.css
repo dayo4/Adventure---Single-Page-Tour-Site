@@ -415,8 +415,8 @@ section {
   background-color: #fb036b;
   border-bottom: 5px solid #fff;
   color: #fff;
-  height: 13em;
-  transition: background-color 0.5s ease, height 1s ease,
+  transform: translateY(-7.5px);
+  transition: background-color 0.5s ease, transform 1s ease,
     border-bottom 0.5s ease 0.2s;
 }
 
@@ -481,7 +481,7 @@ form {
   background-color: #fc036b;
   color: white;
   display: flex;
-  flex-direction: row;
+  align-items: center;
 }
 
 .c_boxx a:hover {
