@@ -22,8 +22,8 @@ Adventure is your passport to explore the world's most exciting destinations and
 - Explore: Dive deep into our collection of curated travel guides, destination highlights, and traveler tips.
 - Tours: Find the perfect guided tours that match your interests and budget.
 - About: Learn more about the Adventure project, its mission, and the team behind it.
-## 🛡️ Note
-Project was initially cloned from PritamSarbajna/tourism-website
+### Note
+Repo was initially cloned from PritamSarbajna/tourism-website
 
 ## 🛡️ License
 Licensed under the [MIT License](https://github.com/dayo4/Adventure---Single-Page-Tour-Site
