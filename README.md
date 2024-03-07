@@ -13,7 +13,7 @@ ADVENTURE - "Where Every Journey Begins"
 
 
 ## 👓 Preview
-<img src= "sshots/276475359-42722076-97a7-41ae-b742-7a3981b1f2b8.gif" width = "75%">
+<img src= "sshot/276475359-42722076-97a7-41ae-b742-7a3981b1f2b8.gif" width = "75%">
 
 ## ⛰ Adventure - Features 
 Adventure is your passport to explore the world's most exciting destinations and discover amazing events, tours, and hidden gems. Our platform is designed to inspire and assist you in planning your next unforgettable journey.
