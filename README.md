@@ -26,8 +26,4 @@ Adventure is your passport to explore the world's most exciting destinations and
 Repo was initially cloned from PritamSarbajna/tourism-website
 
 ## 🛡️ License
-Licensed under the [MIT License](https://github.com/dayo4/Adventure---Single-Page-Tour-Site
-/blob/main/LICENSE) - see the LICENSE file for details.
-
-## 🙏 Support
-This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
+Licensed under the [MIT License]
